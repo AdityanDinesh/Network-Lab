@@ -9,7 +9,8 @@
 #include<string.h>
 #include<unistd.h>
 #include<arpa/inet.h>
-
+// didn't understand
+//help please explain
 int main()
 {
     int c_sock;
